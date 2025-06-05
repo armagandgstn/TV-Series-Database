@@ -23,11 +23,7 @@ This repository contains the SQL schema, data insertion scripts, and queries for
   - Finding directors with specific characteristics  
   - Complex filtering using subqueries and aggregates
 
-## Usage
 
-1. Run the commands in `schema.sql` to create the database schema.  
-2. Run the commands in `data.sql` to populate the tables.  
-3. Run queries from `queries.sql` to retrieve insights from the data.
 
 ## Requirements
 
